@@ -1,0 +1,8 @@
+c:\Projects\Cromulent\Cromulent.Server\obj\Debug\Cromulent.Server.MainForm.resources
+c:\Projects\Cromulent\Cromulent.Server\obj\Debug\Cromulent.Server.Properties.Resources.resources
+c:\Projects\Cromulent\Cromulent.Server\obj\Debug\Cromulent.Server.csproj.GenerateResource.Cache
+c:\Projects\Cromulent\Cromulent.Server\bin\Debug\Cromulent.Server.exe.config
+c:\Projects\Cromulent\Cromulent.Server\bin\Debug\Cromulent.Server.exe
+c:\Projects\Cromulent\Cromulent.Server\bin\Debug\Cromulent.Server.pdb
+c:\Projects\Cromulent\Cromulent.Server\obj\Debug\Cromulent.Server.exe
+c:\Projects\Cromulent\Cromulent.Server\obj\Debug\Cromulent.Server.pdb

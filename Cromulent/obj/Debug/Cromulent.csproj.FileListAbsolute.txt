@@ -1,0 +1,4 @@
+c:\Projects\Cromulent\Cromulent\bin\Debug\Cromulent.dll
+c:\Projects\Cromulent\Cromulent\bin\Debug\Cromulent.pdb
+c:\Projects\Cromulent\Cromulent\obj\Debug\Cromulent.dll
+c:\Projects\Cromulent\Cromulent\obj\Debug\Cromulent.pdb

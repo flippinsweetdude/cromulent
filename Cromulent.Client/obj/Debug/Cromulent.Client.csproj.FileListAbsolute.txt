@@ -1,0 +1,5 @@
+c:\Projects\Cromulent\Cromulent.Client\bin\Debug\Cromulent.Client.exe.config
+c:\Projects\Cromulent\Cromulent.Client\bin\Debug\Cromulent.Client.exe
+c:\Projects\Cromulent\Cromulent.Client\bin\Debug\Cromulent.Client.pdb
+c:\Projects\Cromulent\Cromulent.Client\obj\Debug\Cromulent.Client.exe
+c:\Projects\Cromulent\Cromulent.Client\obj\Debug\Cromulent.Client.pdb
